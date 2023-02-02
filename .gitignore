@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/.idea
+/.vs
+/save
+/save_new
+/build.bat
+/up_config.json
